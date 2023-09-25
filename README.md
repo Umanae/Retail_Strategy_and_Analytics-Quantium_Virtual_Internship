@@ -1,6 +1,3 @@
-# Retail_Strategy_and_Analytics-Quantium_Virtual_Internship
-
-
 # Quantium-Virtual-Internship
 This repository contains my solution to the Quantium Data Analytics Virtual Experience Program on Forage
 
